@@ -1,5 +1,5 @@
 # Ultimate Animations
-Ultimate Animation is a captivating web project developed during the "JavaScript Animation" course by developedByEd. The project showcases a dynamic and visually engaging website that utilizes GSAP (GreenSock Animation Platform) to create stunning animations and interactive scrolling effects.
+Ultimate Animation is a captivating web project developed during the  "The Ultimate JavaScript Animation" course by developedByEd. The project showcases a dynamic and visually engaging website that utilizes GSAP (GreenSock Animation Platform) to create stunning animations and interactive scrolling effects.
 
 Technologies Used:
 HTML: Used to structure the web pages and content.
